@@ -423,7 +423,9 @@ porque não está ligado a outros</value>
   <data name="Settings_PanelOpenSideDown" xml:space="preserve">
     <value>Baixo</value>
   </data>
-  
+  <data name="Settings_PanelOpenSideUp" xml:space="preserve">
+    <value>Cima</value>
+  </data>
   
   
   <data name="Settings_PreviewTypeBoth" xml:space="preserve">
