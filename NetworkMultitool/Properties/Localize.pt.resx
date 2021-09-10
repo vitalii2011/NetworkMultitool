@@ -398,11 +398,15 @@ porque não está ligado a outros</value>
   
   
   
-  
+  <data name="Settings_Gameplay" xml:space="preserve">
+    <value>Jogabilidade</value>
+  </data>
   <data name="Settings_Interface" xml:space="preserve">
     <value>Interface</value>
   </data>
-  
+  <data name="Settings_LengthUnit" xml:space="preserve">
+    <value>Unidade de medida de comprimento</value>
+  </data>
   <data name="Settings_LengthUniteMeters" xml:space="preserve">
     <value>Metros</value>
   </data>
@@ -412,7 +416,9 @@ porque não está ligado a outros</value>
   <data name="Settings_NeedMoney" xml:space="preserve">
     <value>Requer dinheiro para construir</value>
   </data>
-  
+  <data name="Settings_PanelColumns" xml:space="preserve">
+    <value>Número de colunas do painel</value>
+  </data>
   
   <data name="Settings_PanelOpenSideDown" xml:space="preserve">
     <value>Baixo</value>
