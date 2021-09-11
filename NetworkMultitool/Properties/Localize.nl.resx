@@ -216,28 +216,28 @@ om de richting van de kromming te veranderen</value>
     <value>Druk op {0} om de intersecties gelijkmatig te verdelen over de cirkel</value>
   </data>
   <data name="Mode_Info_ArrangeCircle_PressToReset" xml:space="preserve">
-    <value>Druk op {0} om de parameter te resetten</value>
+    <value>Druk op {0} om de parameters te resetten</value>
   </data>
   <data name="Mode_Info_ArrangeCircle_WrongOrder" xml:space="preserve">
     <value>Verkeerde volgorde van de knooppunten</value>
   </data>
   <data name="Mode_Info_ArrangeLine_Apply" xml:space="preserve">
-    <value>Druk op {0} om de lijn te rangschikken</value>
+    <value>Druk op {0} om de lijn te vormen</value>
   </data>
   <data name="Mode_Info_ChangeAllRadius" xml:space="preserve">
-    <value>Druk {0} of {1} om de straal te veranderen</value>
+    <value>Druk {0} of {1} om de radius te veranderen</value>
   </data>
   <data name="Mode_Info_ChangeBothRadius" xml:space="preserve">
-    <value>Druk {0} of {1} om beide stralen te veranderen</value>
+    <value>Druk {0} of {1} om beide radii te veranderen</value>
   </data>
   <data name="Mode_Info_ChangeCircle" xml:space="preserve">
     <value>Druk {0} om de geselecteerde cirkel om te keren</value>
   </data>
   <data name="Mode_Info_ChangeOffset" xml:space="preserve">
-    <value>Druk op {0} of {1} om de beginverschuiving van de kromming te wijzigen</value>
+    <value>Druk op {0} of {1} om start-offset te veranderen</value>
   </data>
   <data name="Mode_Info_ChangeOneRadius" xml:space="preserve">
-    <value>Druk {0} of {1} om de straal te veranderen</value>
+    <value>Druk {0} of {1} om de radius te veranderen</value>
   </data>
   <data name="Mode_Info_ChangeRadius" xml:space="preserve">
     <value>Druk {0} of {1} om de radius te veranderen</value>
