@@ -272,7 +272,7 @@ de manera uniforme en el círculo</value>
     <value>Presiona la tecla {0} para crear conexión</value>
   </data>
   <data name="Mode_Info_ConstructionCost" xml:space="preserve">
-    <value>Costo de construcción: {0}</value>
+    <value>Coste de construcción: {0}</value>
   </data>
   <data name="Mode_Info_Create" xml:space="preserve">
     <value>Presiona la tecla {0} para crear</value>
