@@ -242,7 +242,7 @@ de manera uniforme en el círculo</value>
     <value>Presiona la tecla {0} o {1} para cambiar el desplazamiento inicial de la curva</value>
   </data>
   <data name="Mode_Info_ChangeOneRadius" xml:space="preserve">
-    <value>Presiona la tecla {0} o {1} para cambiar un radio</value>
+    <value>Presiona la tecla {0} o {1} para cambiar el radio del círculo seleccionado</value>
   </data>
   <data name="Mode_Info_ChangeRadius" xml:space="preserve">
     <value>Presiona la tecla {0} o {1} para cambiar el radio</value>
