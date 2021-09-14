@@ -590,7 +590,9 @@
   <data name="Settings_Shortcut_SwitchSelect" xml:space="preserve">
     <value>다른 원 선택</value>
   </data>
-  
+  <data name="Settings_SlopeColors" xml:space="preserve">
+    <value>기울기 라벨에 값에 따라 색상 설정</value>
+  </data>
   <data name="Settings_SlopeUnit" xml:space="preserve">
     <value>기울기 단위</value>
   </data>
